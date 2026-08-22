@@ -1,2 +1,3 @@
-Profile guide: https://unsplash.com/photos/a-close-up-of-an-elephant-made-out-of-many-different-colors-1fBV4QuMim8
+Profile guide - part 1: https://unsplash.com/photos/a-close-up-of-an-elephant-made-out-of-many-different-colors-1fBV4QuMim8
+Profile guide - part 2: https://www.braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-2
 Github stats: https://github.com/stats-organization/github-stats-extended
