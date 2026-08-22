@@ -8,3 +8,18 @@ I'm Isaac, a software developer and software engineering student at ÉTS with ex
 I'm currently completing my bachelor's degree in software engineering while continuing to build projects and expand my skills.
 
 Want to know more about me? [Connect with me on LinkedIn](https://www.linkedin.com/in/isaac-zolana/).
+
+## 📊 GitHub Stats
+
+<p>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=HiZackDavid&show_icons=true&theme=github_dark"
+    alt="Isaac's GitHub stats"
+    height="170"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=HiZackDavid&layout=compact&theme=github_dark"
+    alt="Top Languages"
+    height="170"
+  />
+</p>
