@@ -31,20 +31,15 @@ Want to know more about me? [Connect with me on LinkedIn](https://www.linkedin.c
 ### Languages
 
 <a href="https://www.typescriptlang.org/">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-</a>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-</a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /></a>
 <a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-</a>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /></a>
 <a href="https://www.java.com/">
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
-</a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" /></a>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
-  <img src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white" />
-</a>
+  <img src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white" /></a>
 
 ### Frontend
 
@@ -141,4 +136,4 @@ Want to know more about me? [Connect with me on LinkedIn](https://www.linkedin.c
 
 ---
 
-_Last updated: August 22, 2026_
+_Last updated: August 31, 2026_
