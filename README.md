@@ -11,29 +11,6 @@ I'm currently completing my bachelor's degree in software engineering while cont
 
 Want to know more about me? [Connect with me on LinkedIn](https://www.linkedin.com/in/isaac-zolana/).
 
-## 📌 Pinned Repositories
-
-<a href="https://github.com/HiZackDavid/FaceTheArcade">
-  <img
-    align="center"
-    src="https://github-stats-extended.vercel.app/api/pin/?username=HiZackDavid&repo=FaceTheArcade&theme=github_dark"
-  />
-</a>
-<a href="https://github.com/HiZackDavid/SharedFlavors
-">
-  <img
-    align="center"
-    src="https://github-stats-extended.vercel.app/api/pin/?username=HiZackDavid&repo=SharedFlavors&theme=github_dark"
-  />
-</a>
-<a href="https://github.com/HiZackDavid/Huffman
-">
-  <img
-    align="center"
-    src="https://github-stats-extended.vercel.app/api/pin/?username=HiZackDavid&repo=Huffman&theme=github_dark"
-  />
-</a>
-
 ## 📊 GitHub Stats
 
 <p>
